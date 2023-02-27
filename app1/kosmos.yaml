@@ -1,9 +1,0 @@
-# Name of the application
-name: sap-lab-02
-
-# Prerequisites
-prerequisites:
-  ac00:
-    type: AccumuloNamespace
-    tags:
-      datastore_cu: test-edu
